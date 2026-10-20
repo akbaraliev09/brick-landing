@@ -12,9 +12,7 @@ npm run build    # сборка в папку dist
 |---|---|
 | Телефоны, адрес, карта, текст акции, фото, **видео** | `src/config/site.js` |
 | Товары и вкладки каталога | `src/data/products.js` |
-| Фото (hero, кирпичи, работы, фон акции) | папка `public/images` (сейчас там заглушки .svg) |
+| Фото (hero, кирпичи, работы, фон акции) | папка `public/images` |
 | Прайс-лист | заменить `public/price-list.pdf` |
 | Отправка заявок (Telegram / email) | `src/services/sendLead.js` |
 | Цвета и стили | `src/styles/styles.css` (переменные в `:root`) |
-
-Подсказки оставлены комментариями «👉» прямо в коде.
